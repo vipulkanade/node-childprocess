@@ -37,7 +37,7 @@ var variableName = require('childProcess')({
 
 ### .start(callback)
 ```js
-variableName.start(function(pid){ console.log('variableName is now up with pid: '+ pid) })
+variableName.start(function(code){ console.log('variableName is now up with code: '+ code) })
 ```
 
 ### .stop(callback, termSignal)
