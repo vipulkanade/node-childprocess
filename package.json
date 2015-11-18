@@ -1,0 +1,20 @@
+{
+  "name": "childProcess",
+  "version": "0.0.1",
+  "main": "childProcess.js",
+  "description": "Minimal child process manager for NodeJS",
+
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vipulkanade/node-childprocess.git"
+  },
+
+  "keywords": [
+    "childprocess",
+    "spawn",
+    "processes"
+  ],
+
+  "author": "Vipul Kanade",
+  "license": "MIT"
+}
